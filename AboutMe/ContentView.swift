@@ -30,22 +30,22 @@ struct ContentView: View {
                     .fontWeight(.semibold)
                     .foregroundColor(Color.white)
                 
-                Image("cookies")
-                    .resizable()
-                    .aspectRatio(contentMode: .fit)
-                    .cornerRadius(15)
-                
-                Text("I love desserts!")
-                    .font(.title2)
-                    .fontWeight(.semibold)
-                    .foregroundColor(Color.white)
+//                Image("cookies")
+//                    .resizable()
+//                    .aspectRatio(contentMode: .fit)
+//                    .cornerRadius(15)
+//                
+//                Text("I love desserts!")
+//                    .font(.title2)
+//                    .fontWeight(.semibold)
+//                    .foregroundColor(Color.white)
                 
                 Image("bubbletea")
                     .resizable()
                     .aspectRatio(contentMode: .fit)
                     .cornerRadius(15)
                 
-                Text("I also love bubble tea!")
+                Text("I love bubble tea!")
                     .font(.title2)
                     .fontWeight(.semibold)
                     .foregroundColor(Color.white)
